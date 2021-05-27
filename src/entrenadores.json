@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ash Ketchup",
+        "region": "Kanto",
+        "pokemon": [
+            "Pikachu",
+            "Charmander",
+            "Squirtle"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Misty",
+        "region": "Paleta",
+        "pokemon": [
+            "Caterpie",
+            "Beedrill",
+            "Pidgey"
+        ]
+    }
+]
